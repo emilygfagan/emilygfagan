@@ -8,4 +8,4 @@ My portfolio repository is where you will find all of my projects, certification
 ----------------------------------------------------------------------
 Feel free to contact me at emilygfagan@gmail.com   
 Connect with me on [Linkedin](https://www.linkedin.com/in/emilygfagan/)      
-Look at my [Tableau](https://public.tableau.com/app/profile/emi.fagan/vizzes) vizzes.
+Check out at my [Tableau](https://public.tableau.com/app/profile/emi.fagan/vizzes) vizzes
