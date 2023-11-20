@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm Emily! I currently work as a Special Education teacher. I am working hard to transition out of the education field, and for the last ~6 months I have been learning the ins and outs of all things data analytics in a Data Analytics Bootcamp at Auburn University. I have been self studying, completing the Google Data Analytics Professional Certificate, completing a Udemy SQL certificate, and working on portfolio projects -- all in order to land my first data analyst position. 
+Hi, I'm Emily! I currently work as a Special Education teacher. I am working hard to transition out of the education field, and for the last ~6 months I have been learning the ins and outs of all things data analytics in a Data Analytics Bootcamp at Auburn University. I have been self studying, completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/E76AAWV6X9BD), completing a Udemy SQL certificate, and working on portfolio projects -- all in order to land my first data analyst position. 
 
 My portfolio repository is where you will find all of my projects, certifications, and links to more data projects!
 
