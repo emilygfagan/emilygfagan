@@ -1,7 +1,7 @@
 ## About Me
-Hi, I'm Emily! I currently work as a Special Education teacher. I am working hard to transition out of the education field, and for the last ~6 months I have been learning the ins and outs of all things data analytics in a Data Analytics Bootcamp at Auburn University. I have been self studying, completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/E76AAWV6X9BD), completing a [Udemy SQL certificate](https://www.udemy.com/certificate/UC-0c045b68-5fef-46c9-9135-913c15db8b2b/), and working on portfolio projects -- all in order to land my first data analyst position. 
+Hi, I'm Emily! I currently work as a Special Education teacher. I am working hard to transition out of the education field, and for the last ~6 months I have been learning the ins and outs of all things data analytics in a Data Analytics Bootcamp at Auburn University. I have been self studying, completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/E76AAWV6X9BD), completing a [Udemy SQL certificate](https://www.udemy.com/certificate/UC-0c045b68-5fef-46c9-9135-913c15db8b2b/), and working on [portfolio projects](https://github.com/emilygfagan/portfolio) -- all in order to land my first data analyst position. 
 
-My portfolio repository is where you will find all of my projects, certifications, and links to more data projects!
+My [portfolio repository](https://github.com/emilygfagan/portfolio) is where you will find all of my projects, certifications, and links to more data projects!
 
 ----------------------------------------------------------------------
 Feel free to contact me at emilygfagan@gmail.com   
