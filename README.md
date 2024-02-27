@@ -1,5 +1,9 @@
 ## About Me
-Hi, I'm Emily! I have a non-technical background in Special Education. For the last year I have been learning the ins and outs of all things data analytics in a Data Analytics Bootcamp at Auburn University. In my free time, I have been self studying, completing the [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/E76AAWV6X9BD), completing a [Udemy SQL certificate](https://www.udemy.com/certificate/UC-0c045b68-5fef-46c9-9135-913c15db8b2b/), and working on [portfolio projects](https://github.com/emilygfagan/portfolio).
+Hi, I'm Emily! I have a non-technical background in Special Education, but have found my passion for data analytics. A graduate of Auburn University's Data Analytics Bootcamp, I've honed my skills in Python, SQL, Tableau, and Excel. 
+
+Committed to continuous growth, I've earned the Google Data Analytics Professional Certificate and a Udemy SQL certificate.
+
+My favorite programming language is Python. I am currently enrolled in an introductory Python course at Southern Union State Community College and am working on expanding my Python portfolio with new projects involving web scraping and e-commerce data.
 
 My [portfolio repository](https://github.com/emilygfagan/portfolio) is where you will find all of my projects, certifications, and links to more data projects!
 
