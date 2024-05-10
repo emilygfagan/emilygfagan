@@ -3,7 +3,7 @@ Hi, I'm Emily! I have a non-technical background in Special Education, but have 
 
 Committed to continuous growth, I've earned the Google Data Analytics Professional Certificate and a Udemy SQL certificate.
 
-My favorite programming language is Python. I am currently enrolled in an introductory Python course at Southern Union State Community College and am working on expanding my Python portfolio with new projects involving web scraping.
+My favorite programming language is Python. I am currently working towards a Master's degree in Management Information Systems at the Univeristy of Alabama in Birmingham.
 
 My [portfolio repository](https://github.com/emilygfagan/portfolio) is where you will find all of my projects, certifications, and links to more data projects!
 
