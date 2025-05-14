@@ -13,7 +13,7 @@ My coursework includes systems analysis, data management (including hands-on pro
 
 My [portfolio repository](https://github.com/emilygfagan/portfolio) is where I showcase my IT and systems projects, certifications, and ongoing learning.
 
-----------------------------------------------------------------------
+## Contact Me     
 Feel free to contact me at emilygfagan@gmail.com   
 Connect with me on [Linkedin](https://www.linkedin.com/in/emilygfagan/)      
 Check out at my [Tableau](https://public.tableau.com/app/profile/emi.fagan/vizzes) vizzes     
