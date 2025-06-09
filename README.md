@@ -10,7 +10,9 @@ I’m currently studying for the CompTIA Security+ certification and have hands-
 - SQL (PostgreSQL & MySQL)
 - GUI creation and scripting in Python
 
-I have a Certificate in Information Systems from UAB where I studied systems analysis, data management (including hands-on projects with Microsoft Access and C++), information systems, business communications, and emerging IT trends. I have a Data Analytics Certificate from Auburn University, where I focused on Python, SQL, Tableau, and Excel. I received a 4.00 grade in both certificate programs!     
+I have a Certificate in Information Systems from UAB where I focused on systems analysis, data management (including hands-on projects with Microsoft Access and C++), information systems, business communications, and emerging IT trends.       
+
+I also have a Data Analytics Certificate from Auburn University, where I focused on Python, SQL, Tableau, and Excel. I received a 4.00 grade in both certificate programs!     
 
 My [portfolio repository](https://github.com/emilygfagan/portfolio) is where I showcase my IT and systems projects, certifications, and ongoing learning.        
 
