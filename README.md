@@ -1,6 +1,6 @@
 ## About Me
 Hi, I'm Emily!
-I'm a Master's student in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham. With a background in Special Education, I’ve transitioned into IT with a strong passion for systems, troubleshooting, and infrastructure.     
+I'm a Master's student in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham. With a background in Special Education and customer service, I’ve transitioned into IT with a strong passion for systems, troubleshooting, and infrastructure.     
 
 I recently earned by CompTIA Security+ (SY0-701) certification and have hands-on experience with:
 - Active Directory (OU design, user/group management, domain setup)
