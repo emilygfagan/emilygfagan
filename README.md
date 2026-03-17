@@ -1,20 +1,22 @@
 ## About Me
 Hi, I'm Emily!
-I'm a Master's student in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham. With a background in Special Education and customer service, I’ve transitioned into IT with a strong passion for systems, troubleshooting, and infrastructure.     
+I’m a Master’s student in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham. I transitioned into IT from a background in Special Education and customer service, bringing strong problem‑solving, communication, and troubleshooting skills into technical environments.      
 
-I recently earned by CompTIA Security+ (SY0-701) certification and have hands-on experience with:
-- Active Directory (OU design, user/group management, domain setup)
-- Windows and Linux administration
-- Command line tools (Bash, PowerShell)
-- IT hardware setup and troubleshooting
-- SQL (PostgreSQL & MySQL)
-- GUI creation and scripting in Python
+My experience is rooted in foundational IT and systems administration concepts, including identity management, operating systems, scripting, and infrastructure support. I’ve completed hands‑on work across both Windows and Linux environments and earned the CompTIA Security+ (SY0‑701) certification, building a solid baseline in security principles and operational best practices.           
 
-I also hold an undergraduate certificate in Information Systems (18 credit hours) from UAB where I focused on systems analysis, data management (including hands-on projects with Microsoft Access and C++), information systems, business communications, and emerging IT trends.       
+Technical experience includes:          
+- Active Directory administration (domain setup, OU design, user and group management)
+- Windows and Linux system administration
+- Command-line usage and scripting with PowerShell and Bash
+- IT hardware setup, configuration, and troubleshooting
+- Relational databases using SQL (PostgreSQL and MySQL)
+- Python scripting and GUI-based applications         
 
-Additionally, I earned a Data Analytics Certificate (12 credit hours) from Auburn University, where I focused on Python, SQL, Tableau, and Excel. I received a 4.00 grade in both certificate programs!     
+In addition to my graduate studies, I hold an undergraduate Certificate in Information Systems (18 credit hours) from UAB, where my coursework emphasized systems analysis, data management, information systems, business communications, and emerging IT trends, including hands‑on projects using Microsoft Access and C++.           
 
-My [portfolio repository](https://github.com/emilygfagan/portfolio) is where I showcase my IT and systems projects, certifications, and ongoing learning.        
+I also earned a Data Analytics Certificate (12 credit hours) from Auburn University, focused on Python, SQL, Tableau, and Excel. I earned a 4.00 GPA in both certificate programs.            
+
+This [portfolio repository](https://github.com/emilygfagan/portfolio) serves as a record of my foundational systems work, certifications, and ongoing technical development as I continue building expertise in IT operations, security, and data management.                     
 
 ## Contact Me     
 Feel free to contact me at emilygfagan@gmail.com   
