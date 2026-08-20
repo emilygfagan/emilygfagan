@@ -10,7 +10,8 @@ Technical experience includes:
 - Command-line usage and scripting with PowerShell and Bash
 - IT hardware setup, configuration, and troubleshooting
 - Relational databases using SQL (PostgreSQL and MySQL)
-- Python scripting and GUI-based applications         
+- Python scripting and GUI-based applications
+- Data analysis with Python (NumPy, pandas, Plotly, Matplotlib)        
 
 In addition to my graduate studies, I hold an undergraduate Certificate in Information Systems (18 credit hours) from UAB, where my coursework emphasized systems analysis, data management, information systems, business communications, and emerging IT trends, including hands‑on projects using Microsoft Access and C++.           
 
