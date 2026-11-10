@@ -4,15 +4,13 @@ I’m a Data Analyst and Master’s student in Management Information Systems wi
 
 Technical experience includes:          
 - Active Directory administration (domain setup, OU design, user and group management)
-- Relational databases using SQL (PostgreSQL and MySQL)
+- Relational database creation and querying using SQL (PostgreSQL and MySQL)
 - Python scripting and GUI-based applications
-- Data analysis with Python (NumPy, pandas, Plotly, Matplotlib)
-- MATLAB for data analysis
+- Pyhton programming for data analysis (NumPy, pandas, Plotly, Matplotlib)
+- MATLAB for data analysis (Simulink)
 - R for data analysis
 
-In addition to my graduate studies, I hold an undergraduate Certificate in Information Systems (18 credit hours) from UAB, where my coursework emphasized data analysis, data management, information systems, business communications, and emerging IT trends, including hands‑on projects using Microsoft Access and C++.           
-
-I earned a Data Analytics Certificate (12 credit hours) from Auburn University, focused on Python, SQL, Tableau, and Excel. I earned a 4.00 GPA in both certificate programs.            
+I hold an undergraduate Certificate in Information Systems (18 credit hours) from UAB and a Data Analytics Certificate (12 credit hours) from Auburn University. I earned a 4.00 GPA in both certificate programs.            
 
 I completed the Google Data Analytics Professional Certificate and am CompTIA Security+ certified.      
 
