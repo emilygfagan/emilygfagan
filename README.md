@@ -16,7 +16,7 @@ I earned a Data Analytics Certificate (12 credit hours) from Auburn University, 
 
 I completed the Google Data Analytics Professional Certificate and am CompTIA Security+ certified.      
 
-This [portfolio repository](https://github.com/emilygfagan/portfolio) serves as a record of my foundational systems work, certifications, and ongoing technical development as I continue building expertise in IT operations, security, and data management.                     
+This [portfolio repository](https://github.com/emilygfagan/portfolio) serves as a record of my foundational programming/data analysis work and ongoing technical development.                     
 
 ## Contact Me     
 Feel free to contact me at emilygfagan@gmail.com   
