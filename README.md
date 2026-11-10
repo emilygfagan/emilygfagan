@@ -1,6 +1,6 @@
 ## About Me
 Hi, I'm Emily!
-I’m a Master’s student in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham.                
+I’m a Data Analyst and Master’s student in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham. I will graduate in December 2026!                
 
 Technical experience includes:          
 - Active Directory administration (domain setup, OU design, user and group management)
